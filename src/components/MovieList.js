@@ -66,7 +66,7 @@ const MovieList = () => {
     } else {
       return (
         <h1 style={{ color: "white", marginTop: "220px", padding: "10px" }}>
-          There is no movies Please try again ...
+          There is no movies Please try again ....
         </h1>
       );
     }
